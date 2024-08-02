@@ -11,5 +11,8 @@
   "description": "",
   "dependencies": {
     "@prisma/client": "^5.17.0"
+  },
+  "exports": {
+    "./client": "./index.ts"
   }
 }
